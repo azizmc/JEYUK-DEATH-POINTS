@@ -1,3 +1,4 @@
+
 # 💀 JeyukDeathPoints
 
 <div align="center">
@@ -30,6 +31,9 @@ Deduct a percentage of a player's money on death — with on-screen titles, chat
 - 📋 **Balance checker** — preview exactly how much a player would lose
 - 📡 **Console logging** — every deduction is logged with full details
 - 🔌 **Vault compatible** — works with EssentialsX, CMI, and any Vault economy
+
+
+<img width="1600" height="720" alt="Screenshot_20260424_185728_MojoLauncher (Minecraft Java Edition for Android)" src="https://github.com/user-attachments/assets/f96e2e32-0f74-4be9-bf32-0e63ef4955d7" />
 
 ---
 
