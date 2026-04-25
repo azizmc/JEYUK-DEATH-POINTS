@@ -1,4 +1,5 @@
 
+
 # 💀 JeyukDeathPoints
 
 <div align="center">
@@ -163,6 +164,7 @@ These placeholders are available in `death-chat`, `death-title`, and `death-subt
 [In chat]
 [JDP] You lost $125.00 (10.0%) on death! Remaining balance: $1,125.00
 ```
+<img width="1600" height="720" alt="Screenshot_20260424_185625_MojoLauncher (Minecraft Java Edition for Android)" src="https://github.com/user-attachments/assets/25eb2d71-a035-4d37-993a-4920b184334c" />
 
 ---
 
