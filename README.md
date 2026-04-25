@@ -181,7 +181,7 @@ These placeholders are available in `death-chat`, `death-title`, and `death-subt
 
 ## 🐛 Support & Issues
 
-Found a bug or have a suggestion? Open an issue on the [GitHub Issues](../../issues) page.  
+Found a bug or have a suggestion? Open an issue on the [GitHub Issues](../../issues) page or join my discord comunity [Discord](https://discord.gg/5HAzVJ45V5).  
 Please include your server version, plugin version, and full error log if applicable.
 
 ---
@@ -194,6 +194,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Made with ❤️ by **Jeyuk**
+Made with ❤️ by **Jeyuk & azizmc**
 
 </div>
